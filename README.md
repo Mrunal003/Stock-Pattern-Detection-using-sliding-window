@@ -1,7 +1,6 @@
-# MiNeD-Hackathon
+# Stock Market Analyzer
 
-## Team Name - Team Tensor 
-## Topic - Stock Market Analysis (Track - 3)
+## Stock Market Analysis using sliding window and dynamic programmaing
 
 The Given Program helps to identify the following patterns:
 1. Head and Shoulder 
